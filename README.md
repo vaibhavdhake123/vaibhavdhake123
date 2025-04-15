@@ -1,4 +1,4 @@
-## Hi there, I'm Vaibhav Niti Dhake! 👋
+## Hi there, I'm Vaibhav Nitin Dhake! 👋
 
 I am a passionate software developer with a strong focus on mobile app development. I specialize in both **React Native** and **Android Studio (Java)**, and I love creating apps that enhance user experiences through innovative features.
 
