@@ -12,7 +12,7 @@ I am a passionate software developer with a strong focus on mobile app developme
   A language translation app designed to help users communicate across languages with ease.  
   👉 [Global Lingo - Google Play Store](https://play.google.com/store/apps/details?id=com.pawsomecreation.translater)
 
-  - **Play & Learn Kid: Edition** (Android Studio - Java)  
+- **Play & Learn Kid: Edition** (Android Studio - Java)  
   A fun and educational app for kids, featuring quizzes, memory games, and interactive learning activities.
   👉 [Play & Learn Kid: Edition - Google Play Store](https://play.google.com/store/apps/details?id=com.pawsomecreations.play_and_learn_kid_edition)
 
