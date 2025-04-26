@@ -14,7 +14,7 @@ I am a passionate software developer with a strong focus on mobile app developme
 
   - **Play & Learn Kid: Edition** (Android Studio - Java)  
   A fun and educational app for kids, featuring quizzes, memory games, and interactive learning activities.
-👉 [Play & Learn Kid: Edition - Google Play Store](https://play.google.com/store/apps/details?id=com.pawsomecreations.play_and_learn_kid_edition)
+  👉 [Play & Learn Kid: Edition - Google Play Store](https://play.google.com/store/apps/details?id=com.pawsomecreations.play_and_learn_kid_edition)
 
 - **Trendy AI Fashion Hub** (React Native)  
   An AI-powered fashion app offering outfit suggestions based on user preferences and the latest trends. (Currently in closed testing)
