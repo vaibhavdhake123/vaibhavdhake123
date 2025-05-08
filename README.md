@@ -36,51 +36,53 @@ I’m a passionate **Mobile App Developer** from India, with expertise in **Reac
 ## 🧰 Languages & Tools
 
 <p>
-  
+
   <!-- Programming Languages -->
-  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;">
+  <a target="_blank" href="https://www.java.com/" style="display: inline-block; margin-right: 20px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" />
   </a>
-  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;">
+  <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="display: inline-block; margin-right: 20px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" />
   </a>
 
-  <!-- Backend Development -->
-  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" style="display: inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="42" height="42" />
-  </a>
-  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" style="display: inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="42" height="42" />
-  </a>
-
   <!-- Mobile Development -->
-  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" style="display: inline-block;">
+  <a target="_blank" href="https://developer.android.com/" style="display: inline-block; margin-right: 20px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="42" height="42" />
   </a>
-  <a target="_blank" href="https://reactnative.dev/img/header_logo.svg" style="display: inline-block;">
+  <a target="_blank" href="https://reactnative.dev/" style="display: inline-block; margin-right: 20px;">
     <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="42" height="42" />
   </a>
 
+  <!-- Backend Development -->
+  <a target="_blank" href="https://nodejs.org/" style="display: inline-block; margin-right: 20px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="42" height="42" />
+  </a>
+  <a target="_blank" href="https://expressjs.com/" style="display: inline-block; margin-right: 20px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="42" height="42" />
+  </a>
+
+
   <!-- Database -->
-  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" style="display: inline-block;">
+  <a target="_blank" href="https://www.mongodb.com/" style="display: inline-block; margin-right: 20px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="42" height="42" />
   </a>
 
   <!-- Cloud & Tools -->
-  <a target="_blank" href="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" style="display: inline-block;">
+  <a target="_blank" href="https://cloud.google.com/" style="display: inline-block; margin-right: 20px;">
     <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="42" height="42" />
   </a>
-  <a target="_blank" href="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" style="display: inline-block; margin: 4px;">
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="42" height="42" />
-</a>
-  <a target="_blank" href="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="display: inline-block;">
+  <a target="_blank" href="https://firebase.google.com/" style="display: inline-block; margin-right: 20px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="firebase" width="42" height="42" />
+  </a>
+  <a target="_blank" href="https://www.figma.com/" style="display: inline-block; margin-right: 20px;">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42" />
   </a>
-  <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;">
+  <a target="_blank" href="https://git-scm.com/" style="display: inline-block; margin-right: 20px;">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" />
   </a>
 
 </p>
+
 
 
 
