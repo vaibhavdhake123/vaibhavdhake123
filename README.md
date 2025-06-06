@@ -14,7 +14,7 @@ I’m a passionate **Mobile App Developer** from India, with expertise in **Reac
   A language translator app that makes cross-language communication effortless.  
   👉 [Global Lingo - Google Play Store](https://play.google.com/store/apps/details?id=com.pawsomecreation.translater)
 
-- 🎓 **Play & Learn Kid: Edition** *(Android Studio - Java)*  
+- 🎓 **Play & Learn Kid: Edition** *(React Native)*  
   A fun and educational app for kids, featuring quizzes, memory games, and interactive learning activities.  
   👉 [Play & Learn Kid: Edition - Google Play Store](https://play.google.com/store/apps/details?id=com.pawsomecreations.play_and_learn_kid_edition)
 
