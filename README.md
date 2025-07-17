@@ -19,7 +19,8 @@ I’m a passionate **Mobile App Developer** from India, with expertise in **Reac
   👉 [Play & Learn Kid: Edition - Google Play Store](https://play.google.com/store/apps/details?id=com.pawsomecreations.play_and_learn_kid_edition)
 
 - 👕 **Trendy AI Fashion Hub** *(React Native)*  
-  An AI-powered fashion app offering outfit suggestions based on user preferences and trends. *(Currently in closed testing)*
+  An AI-powered fashion app offering outfit suggestions based on user preferences and trends.
+  👉 [Trendy Ai Fashion Hub - Google Play Store](https://play.google.com/store/apps/details?id=com.pawsomecreations.trendy.aifashionhub)
 
 ---
 
