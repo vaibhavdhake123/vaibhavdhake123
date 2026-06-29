@@ -1,106 +1,194 @@
-# 👋 Hi, I'm Vaibhav Nitin Dhake!
+# 👋 Hi, I'm Vaibhav Nitin Dhake
 
-I’m a passionate **Mobile App Developer** from India, with expertise in **React Native** and **Android Studio (Java)**. I love building mobile apps that are intuitive, user-focused, and packed with innovative features.
+Founder & Software Engineer at **Dream Mythic Studio**
 
----
+I build modern software products with a focus on performance, user experience, and long-term maintainability. My work spans **mobile applications, desktop software, web applications, developer tools, npm packages, and cross-platform solutions**.
 
-## 🚀 Apps I’ve Developed
-
-- 🍳 **Cook Crafter** *(React Native)*  
-  A recipe book app that allows users to explore, save, and share recipes.  
-  👉 [Cook Crafter - Google Play Store](https://play.google.com/store/apps/details?id=com.cookcrafter.recipe)
-
-- 🌐 **Global Lingo** *(React Native)*  
-  A language translator app that makes cross-language communication effortless.  
-  👉 [Global Lingo - Google Play Store](https://play.google.com/store/apps/details?id=com.pawsomecreation.translater)
-
-- 🎓 **Play & Learn Kid: Edition** *(React Native)*  
-  A fun and educational app for kids, featuring quizzes, memory games, and interactive learning activities.  
-  👉 [Play & Learn Kid: Edition - Google Play Store](https://play.google.com/store/apps/details?id=com.pawsomecreations.play_and_learn_kid_edition)
-
-- 👕 **Trendy AI Fashion Hub** *(React Native)*  
-  An AI-powered fashion app offering outfit suggestions based on user preferences and trends.
-  👉 [Trendy Ai Fashion Hub - Google Play Store](https://play.google.com/store/apps/details?id=com.pawsomecreations.trendy.aifashionhub)
+I enjoy creating products that solve real-world problems while maintaining clean architecture and scalable codebases.
 
 ---
 
-## 🧠 Skills
+# 🚀 About Dream Mythic Studio
 
-- Mobile App Development using **React Native** & **Java (Android Studio)**
-- AI integration & personalized recommendations
-- Game and educational app development
-- Backend with **Node.js**, **Express**, **MongoDB**, **Firebase**
-- Tools: **Git**, **Google Cloud**, **Play Console**
+**Dream Mythic Studio** is an independent software studio focused on building modern digital products.
 
----
+### We build
 
-## 🧰 Languages & Tools
-
-<p>
-
-  <!-- Programming Languages -->
-  <a target="_blank" href="https://www.java.com/" style="display: inline-block; margin-right: 20px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" />
-  </a>
-  <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="display: inline-block; margin-right: 20px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" />
-  </a>
-
-  <!-- Mobile Development -->
-  <a target="_blank" href="https://developer.android.com/" style="display: inline-block; margin-right: 20px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="42" height="42" />
-  </a>
-  <a target="_blank" href="https://reactnative.dev/" style="display: inline-block; margin-right: 20px;">
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="42" height="42" />
-  </a>
-
-  <!-- Backend Development -->
-  <a target="_blank" href="https://nodejs.org/" style="display: inline-block; margin-right: 20px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="42" height="42" />
-  </a>
-  <a target="_blank" href="https://expressjs.com/" style="display: inline-block; margin-right: 20px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="42" height="42" />
-  </a>
-
-
-  <!-- Database -->
-  <a target="_blank" href="https://www.mongodb.com/" style="display: inline-block; margin-right: 20px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="42" height="42" />
-  </a>
-
-  <!-- Cloud & Tools -->
-  <a target="_blank" href="https://cloud.google.com/" style="display: inline-block; margin-right: 20px;">
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="42" height="42" />
-  </a>
-  <a target="_blank" href="https://firebase.google.com/" style="display: inline-block; margin-right: 20px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="firebase" width="42" height="42" />
-  </a>
-  <a target="_blank" href="https://www.figma.com/" style="display: inline-block; margin-right: 20px;">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42" />
-  </a>
-  <a target="_blank" href="https://git-scm.com/" style="display: inline-block; margin-right: 20px;">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" />
-  </a>
-
-</p>
-
-
-
+* 📱 Mobile Applications
+* 💻 Desktop Applications
+* 🌐 Web Applications
+* 🖥️ Cross-Platform Software
+* ⚡ Developer Tools
+* 📦 Open Source npm Packages
+* 🎮 Interactive Games
+* 🧩 Software SDKs & Libraries
+* ☁️ Cloud Integrated Solutions
+* 🔒 Productivity & Backup Software
 
 ---
 
-## 📲 Connect With Me
+# 🛠️ Current Projects
 
-- 🔗 [Google Play Developer Profile](https://play.google.com/store/apps/dev?id=8989313537655250388)
-- 📧 Email: *dhakev1@gmail.com*  
-- 💬 Always open to collaboration and new opportunities!
+### GitVault Backup
+
+Professional GitHub backup solution built with Electron.
+
+Features:
+
+* Complete Git mirror backups
+* Offline repository storage
+* Multi-drive backup
+* Metadata system
+* Backup analytics
+* Repository management
 
 ---
 
-> *“Code with purpose. Build with passion.”*
+### Daily Paisa
+
+Offline personal finance manager.
+
+Features:
+
+* Expense Tracking
+* Budget Planning
+* Analytics
+* Offline First
+* Secure Local Storage
+
+---
+
+### Emoji Progress Kit
+
+A lightweight terminal progress indicator package for Node.js.
+
+```bash
+npm i emoji-progress-kit
+```
+
+---
+
+# 📱 Published Applications & Software
+
+### 💰 Daily Paisa: Budget Tracker
+
+Offline personal finance and expense tracking application.
+
+https://play.google.com/store/apps/details?id=com.dailypaisa.app
+
+---
+
+### 📒 Khata Wahi - Business Hisab
+
+Digital bookkeeping application for businesses and personal accounting.
+
+https://play.google.com/store/apps/details?id=com.khatawahi.app
+
+---
+
+### 🍳 Recipe Book Offline
+
+Recipe management application.
+
+https://play.google.com/store/apps/details?id=com.cookcrafter.recipe
 
 
+---
 
+### 👕 Trendy Ai - Fashion Hub
 
+AI-powered fashion assistant.
 
+https://play.google.com/store/apps/details?id=com.pawsomecreations.trendy.aifashionhub
 
+---
+
+### 🖼️ Smart Image Compressor Pro
+
+Professional desktop image compression software for Windows.
+
+**Platform:** Microsoft Store *(Publishing Soon)*
+
+---
+
+# 🌐 Dream Mythic Studio
+
+Official Website
+
+https://dreammythic.com/
+
+---
+
+# 🧠 Tech Stack
+
+### Languages
+
+* TypeScript
+* JavaScript
+* Java
+* C
+* C++
+
+### Frontend
+
+* React
+* React Native
+* Next.js
+* Vite
+* Tailwind CSS
+
+### Desktop
+
+* Electron
+
+### Backend
+
+* Node.js
+* Express
+* MongoDB
+* Firebase
+
+### Tools
+
+* Git
+* GitHub
+* Google Cloud
+* Play Console
+* VS Code
+* Figma
+
+---
+
+# 🌱 Currently Learning
+
+* Native Desktop Development
+* Low-Level System Programming
+* High Performance Software Design
+* Cross Platform Development
+* Open Source Infrastructure
+
+---
+
+# 🌍 Connect
+
+📧 Email
+
+**[dhakev1@gmail.com](mailto:dhakev1@gmail.com)**
+
+---
+
+### Google Play
+
+https://play.google.com/store/apps/dev?id=8989313537655250388
+
+---
+
+### Studio
+
+**Dream Mythic Studio**
+
+Building software that lasts.
+
+---
+
+> **Build once. Improve forever.**
