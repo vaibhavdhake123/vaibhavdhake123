@@ -119,46 +119,6 @@ https://dreammythic.com/
 
 ---
 
-# 🧠 Tech Stack
-
-### Languages
-
-* TypeScript
-* JavaScript
-* Java
-* C
-* C++
-
-### Frontend
-
-* React
-* React Native
-* Next.js
-* Vite
-* Tailwind CSS
-
-### Desktop
-
-* Electron
-
-### Backend
-
-* Node.js
-* Express
-* MongoDB
-* Firebase
-
-### Tools
-
-* Git
-* GitHub
-* Google Cloud
-* Play Console
-* VS Code
-* Figma
-
----
-
 # 🌱 Currently Learning
 
 * Native Desktop Development
