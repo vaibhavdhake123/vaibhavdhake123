@@ -66,6 +66,14 @@ A lightweight terminal progress indicator package for Node.js.
 npm i emoji-progress-kit
 ```
 
+### Express Resforge
+
+Enterprise-grade API response and error orchestration toolkit for Express.
+
+```bash
+npm i express-resforge
+```
+
 ---
 
 # 📱 Published Applications & Software
@@ -86,11 +94,11 @@ https://play.google.com/store/apps/details?id=com.khatawahi.app
 
 ---
 
-### 🍳 Recipe Book Offline
+### 🍳 Cook Crafter: Recipe Community
 
 Recipe management application.
 
-https://play.google.com/store/apps/details?id=com.cookcrafter.recipe
+https://play.google.com/store/apps/details?id=com.cookcrafter.app
 
 
 ---
