@@ -111,11 +111,11 @@ https://play.google.com/store/apps/details?id=com.pawsomecreations.trendy.aifash
 
 ---
 
-### 🖼️ Smart Image Compressor Pro
+### 🖼️ Image Toolkit ProX
 
 Professional desktop image compression software for Windows.
 
-**Platform:** Microsoft Store *(Publishing Soon)*
+https://apps.microsoft.com/detail/9pm6xtt1txz2?hl=en-US&gl=IN
 
 ---
 
